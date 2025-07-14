@@ -1,5 +1,5 @@
 .env
-liveKit_MentalHealthAI_API_Key
+liveKit_MentalHealthAI_APIkeys
 __pycache__/
 *.pyc
 *.log
