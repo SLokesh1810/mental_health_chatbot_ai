@@ -1,0 +1,15 @@
+websocket - wss://project001-svtvfzys.livekit.cloud
+
+API key - APICY7cWKrz2ruW
+
+API secret - 1E3VlQwfxxjQ749eIeZA0yZBUD2N8omXCE4qjAUU15qB
+
+Env var - 
+LIVEKIT_URL=wss://project001-svtvfzys.livekit.cloud
+LIVEKIT_API_KEY=APICY7cWKrz2ruW
+LIVEKIT_API_SECRET=1E3VlQwfxxjQ749eIeZA0yZBUD2N8omXCE4qjAUU15qB
+
+Google API key - AIzaSyCJICp5UL4r0KNC0fXrDoTJ3Du4W5ZhigE
+
+lk app create \
+	--sandbox token-server-1cadrf
